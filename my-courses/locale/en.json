@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "title": "My Courses",
+    "description": "A study workbench: timetable, sticky-note to-dos, a daily feed of papers, news and repositories matched to your major and directions (with provenance and tags), competition folders with per-folder study plans (checklist, milestones, timeline), and a course file library. Data stays in this browser."
+  },
+  "feed": {
+    "panel": "Feed",
+    "error": {
+      "rate": "Too many requests",
+      "upstream": "Upstream unavailable"
+    }
+  }
+}

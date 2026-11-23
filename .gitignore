@@ -1,0 +1,18 @@
+# 依赖
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# 日志与临时文件
+*.log
+*.tmp
+*.swp
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
